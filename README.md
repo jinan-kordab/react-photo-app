@@ -1,7 +1,7 @@
 <h1>React photo app</h1>
 <p>A small React photo app, bootstrapped with create-react-app that queries Pexels Photo API <a href="https://www.pexels.com/api/">https://www.pexels.com/api/</a> and displays images. Has a custom pager, a "Showing n of n+1 photos" section and a search input box.</p>
 <ul>
-<li>It only and intentionally targets desktops and iPads. Not a phone app.</li>
+<li>It only and intentionally targets desktops and tablets. Not a phone app.</li>
 <li>Uses JEST <a href="https://jestjs.io/">https://jestjs.io</a> for unit testing</li>
 <li>Uses React Custom Hooks to fetch the data</li>
 <li>Contains Error Boundary</li>
