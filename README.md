@@ -104,5 +104,6 @@ test("can mock fetch and test the useCrud custom hook", async () => {
 
 
 ```
+<p>To see static <code>flex</code> container in the middle that displays the photos, I created a playground here  <a href = "https://963511.playcode.io/">https://963511.playcode.io/</a> </p>
 
 enjoy ! :blush:
