@@ -1,6 +1,22 @@
 <h1>React photo app</h1> 
 
+
+<div style="align:center">
+
+[![jinan-kordab - react-photo-app](https://img.shields.io/static/v1?label=jinan-kordab&message=react-photo-app&color=blue&logo=github)](https://github.com/jinan-kordab/react-photo-app "Go to GitHub repo")
+
 [![CircleCI](https://circleci.com/gh/jinan-kordab/react-photo-app.svg?style=shield)](https://app.circleci.com/pipelines/github/jinan-kordab/react-photo-app?branch=circleci-project-setup)
+
+[![License](https://img.shields.io/badge/License-The_Unlicense-blue)](#license)
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=flat)](https://github.com/jinan-kordab/react-photo-app/generate)
+
+
+
+</div>
+
+
+
 
 
 <p>A small React photo app, bootstrapped with create-react-app that queries Pexels Photo API <a href="https://www.pexels.com/api/">https://www.pexels.com/api/</a> and displays images. Has a custom pager, a "Showing n of n+1 photos" section and a search input box.</p>
