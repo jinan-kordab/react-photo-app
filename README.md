@@ -3,7 +3,8 @@
 
 <div style="align:center">
 
-[![Build Status](https://dev.azure.com/kordabjinan/react-photo-app/_apis/build/status/react-photo-app?branchName=azure-pipelines)](https://dev.azure.com/kordabjinan/react-photo-app/_build/latest?definitionId=11&branchName=azure-pipelines)
+<img src="https://dev.azure.com/kordabjinan/react-pexels-photo-app/_apis/build/status/jinan-kordab.react-photo-app?branchName=master"/>
+
 
 [![jinan-kordab - react-photo-app](https://img.shields.io/static/v1?label=jinan-kordab&message=react-photo-app&color=blue&logo=github)](https://github.com/jinan-kordab/react-photo-app "Go to GitHub repo")
 
